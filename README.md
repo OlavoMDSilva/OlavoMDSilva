@@ -1,4 +1,4 @@
-- Hi, I’m Olavo Miguel Dias Silva
+# Hi there! 👋 I'm Olavo Miguel Dias Silva
 - I'm passionate to coding and learning new things
 - In the moment, I’m interested in working as a backend programer
 - I’m currently learning Java Spring Framework
