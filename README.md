@@ -1,7 +1,8 @@
 # Hi there! 👋 I'm Olavo Miguel Dias Silva
 I'm a budding backend developer passionate about coding, problem-solving, and continuously learning new technologies.
-# 🚀 About Me
-- 🌱 I’m currently learning Java Spring Framework.
+
+## 🚀 About Me
+- 🌱 I’m currently focused on creating **REST APIs** using the **Java Spring Framework**.
 - 💻 I’m passionate about backend development and creating efficient, scalable solutions.
 
 ### 📫 How to reach me  
